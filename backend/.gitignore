@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# SQLite database file
+pentest_results.db
+pentest_results.db-journal
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
