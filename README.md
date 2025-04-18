@@ -30,7 +30,7 @@ This application provides a simple web interface to initiate basic penetration t
 
 1.  **Clone the Repository (if applicable):**
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/jsmejia27/pen-test-app)
     cd pen-test-app
     ```
 
